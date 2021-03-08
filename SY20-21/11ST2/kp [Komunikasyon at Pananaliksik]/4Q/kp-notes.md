@@ -1,4 +1,5 @@
 # Kabanata 1: Mga Uri ng Teksto
+## Aralin 1: Ang Tekstong Impormatibo at Tekstong Deskriptibo
 
 _March 07 2021_
 
@@ -7,7 +8,7 @@ _March 07 2021_
 - Maipaliwanag ang kahulugan ng tekstong impormatibo at deskribtibo
 - Makilala at maunawaan ang elemento at uri ng tekstong impormatibo at deskriptibo
 
-## Tekstong Impormatibo
+### Tekstong Impormatibo
 
 - Ito ay nagbibigay ng impormasyon at kaalaman
 - Ito ay nagtataglay ng mahahalaga at tiyak ng impormasyon tungkol sa mga tao, bagay, lugar, at pangyayari. Kalimitan itong tumutugon sa mga tanong na "Ano", "Sino", at "Paano".
@@ -89,3 +90,77 @@ Mapalawak ang kaalaman, maunawaan ang mga pangyayaring mahirap ipaliwanag, matut
 4. **Pang-ugnay**: Nagagamit ang mga pang-ugnay tulad ng **_AT_** sa pag-uugnay ng sugnay sa sugnay, parirala sa parirala.
 
    _Ang mabuting magulang ay nagsasakripisyo para sa mga anak at ang mga anak naman ay dapat magbalik ng pagmamahal sa kanilang mga magulang._
+
+* * *
+
+## Aralin 1: Tekstong Naratibo at Prosidyural
+
+_March 08 2021_
+
+### Tekstong Naratibo
+
+- Ay pasalaysay o pagkuwento ng mga pangyayari sa isang tao o mga tauhan, nangyari sa isang lugar at panahon o isang tagpuan nang may maayos na pagkakasunod-sunod mula sa simula hanggang katapusan.
+
+### Iba't Ibang Pananaw (Point of View)
+
+#### **Unang Panauhan**
+
+- Nagsasalaysay ng mga bagay na kanyang nararanasan, naalala, o naririnig kaya gumamit ng "ako".
+
+#### **Ikalawang Panauhan**
+
+- Pinagagalaw niya sa kwento kaya't gumamit siya ng panghalip na "ka at ikaw".
+
+#### **Ikatlong Panauhan**
+
+- Isinalaysay ng isang taong walang relasyon sa tauhan kay ang panghalip na ginagamit niya ay "siya".
+
+### Elemento ng Tekstong Naratibo
+
+#### **Tauhan**
+
+- Gumaganap sa isang kwento.
+	- Pangunahing tauhan (Protagonista)
+	- Kasamang tauhan (Foil)
+	- Katunggaling tauhan (Antagonista)
+	- Ang may akda (Awtor)
+- **2 Uri ng Tauhan**
+	- Tauhang Bilog (round character), Nagbabago
+	- Tauhang Lapad (flat character), 'Di Nagbabago
+
+#### **Tagpuan**
+
+- Tumutukoy sa lugar at panahon ng isinasalaysay.
+
+#### **Banghay**
+
+- Tumutukoy sa pagkakasunod-sunod ng pangyayari.
+	- **Anachrony** - pasalaysay na hindi nakaayos sa tamang pagkasunod-sunod.
+	- **Analepsis** - flashback.
+	- **Prolepsis** - flash-forward.
+	- **Elipsis** - may puwang.
+
+#### **Paksa**
+
+- Ideya kung saan umiikot ang pangyayari.
+
+### Tekstong Prosidyural
+
+	Missing notes
+
+### Iba't Ibang Uri ng Tekstong Prosidyural
+
+- Paraan ng pagluto (Recipes)
+- Panuto (Instructions)
+- Panuntunan sa mga laro (Rules for games)
+- Manwal
+- Mga eksperimento
+- Pagbibigay ng direksyon
+
+#### Tatlong Uri:
+
+- ***Sekwensyal*** ay may serye o sunod-sunod na mga bagay na konektado sa isa't isa.
+	- *una, pangalawa, pangatlo, sunod*
+- ***Prosidyural***. Ito ay nagbibigay ng kaalaman para sa maayos na pagkakasunod-sunod ng isang gawain mula umpisa hanggang sa wakas.
+- ***Kronolohikal***. Ito ay pagkakasunod-sunod ng mga magkakaugnay na pangyayari ayon sa tamang panahon at oras.
+

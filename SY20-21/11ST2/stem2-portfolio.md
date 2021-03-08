@@ -35,7 +35,7 @@
 
 # Personal Page
 
-<img src="ahmad.jpg" width=200 height=200 />
+<img src="https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/ahmad.jpg?raw=true" width=200 height=200 />
 
 I am Ahmad Badron, and I may or may not consider myself an ambivert. And by that, I mean that I get very noisy with people I’ve known for long enough, and very silent around people I may know, but not too close to. I am a 5’7” (or 169 cm), 16 year old Filipino guy, born on a Tuesday, June 29, 2004 in Dammam Maternity Hospital, KSA. When I’ve got nothing to do, like nothing at all, I think about anything I can think of, and I brainstorm on it and come up with thoughts about the topic. So now you know about what goes in my head, when stationary. I’d say I am emotionally stable as a person. But kind of not too. I tend to overthink things, especially my friendships and relationships with people, which is a bad thing to do.
 

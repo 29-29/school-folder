@@ -603,6 +603,10 @@ I don’t have a task to criticize this quarter, and I’m proud of that. Like I
 
 #### **4th Quarter**
 
+1. Gawain 1
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/kp/4q/kp-ww1.png?raw=true)
+
 ### Explain what exactly you were required to do in these Written Works?
 
 #### **3rd Quarter**
@@ -614,6 +618,8 @@ I don’t have a task to criticize this quarter, and I’m proud of that. Like I
 
 #### **4th Quarter**
 
+1. Sa gawaing ito, gumawa kami ng talatang naglalarawan ng bagay aming napili. Ginuhit rin namin ang bagay na aming linarawan base sa sinulat namin na talata.
+
 ### What information was the most interesting/surprising to you?
 
 #### **3rd Quarter**
@@ -624,6 +630,8 @@ I don’t have a task to criticize this quarter, and I’m proud of that. Like I
 4. Natuklasan kong pwede ko palang pahabain ang aking mga sanaysay gamit ng kakayahang diskorsal.
 
 #### **4th Quarter**
+
+1. Natutunan ko ang pagkaiba ng tekstong impormatibo at ng tekstong deskriptibo sa aralin at gawaing ito.
 
 ### Which of the Written Works you did well? Why?
 

@@ -146,7 +146,7 @@ _March 08 2021_
 
 ### Tekstong Prosidyural
 
-	Missing notes
+Ang tekstong prosidyural ay isang uri ng teksto na nagbibigay impormasyon **kung paano isasagawa ang isang bagay o gawain.**
 
 ### Iba't Ibang Uri ng Tekstong Prosidyural
 

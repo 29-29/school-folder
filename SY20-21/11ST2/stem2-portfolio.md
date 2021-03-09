@@ -607,6 +607,14 @@ I don’t have a task to criticize this quarter, and I’m proud of that. Like I
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/kp/4q/kp-ww1.png?raw=true)
 
+2. Gawain 2
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/kp/4q/kp-ww2.png?raw=true)
+
+3. Gawain 3
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/kp/4q/kp-ww3.png?raw=true)
+
 ### Explain what exactly you were required to do in these Written Works?
 
 #### **3rd Quarter**
@@ -618,7 +626,9 @@ I don’t have a task to criticize this quarter, and I’m proud of that. Like I
 
 #### **4th Quarter**
 
-1. Sa gawaing ito, gumawa kami ng talatang naglalarawan ng bagay aming napili. Ginuhit rin namin ang bagay na aming linarawan base sa sinulat namin na talata.
+1. Sa gawaing ito, gumawa kami ng talatang naglalarawan ng bagay aming napili. Ginuhit rin namin ang bagay na aming linarawan base sa sinulat namin na talata. Ang napili naming bagay na ilarawan at iguhit ay ang Corniche.
+2. Sa gawaing ito, nagsulat kami ng tekstong prosidyural tungkol sa napili naming proseso o paksa. Ang napili naming paksa ay ang pagluto ng pansit canton.
+3. Sa gawaing ito, sinagutan namin ang maikling pagsusulit na hinanda ni Sir Ampiloquio sa Google Forms. Ang mga tanong sa pagsululit ay tungkol lamang sa napag-aralan namin sa mga nakalipas na araw.
 
 ### What information was the most interesting/surprising to you?
 
@@ -632,6 +642,8 @@ I don’t have a task to criticize this quarter, and I’m proud of that. Like I
 #### **4th Quarter**
 
 1. Natutunan ko ang pagkaiba ng tekstong impormatibo at ng tekstong deskriptibo sa aralin at gawaing ito.
+2. Nagawa ng gawain at araling ito na ma-*curious* ako kung saan-saan nagagamit ang tekstong prosidyural.
+3. Natutunan ko sa mga araling nakaraan ang tungkol sa iba't ibang uri ng teksto, tulad ng tekstong impormatibo, deskriptibo, naratibo, prosidyural, argumentatibo, at persweysib.
 
 ### Which of the Written Works you did well? Why?
 

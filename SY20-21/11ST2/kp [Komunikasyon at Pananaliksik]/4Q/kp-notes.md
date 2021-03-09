@@ -164,3 +164,109 @@ Ang tekstong prosidyural ay isang uri ng teksto na nagbibigay impormasyon **kung
 - ***Prosidyural***. Ito ay nagbibigay ng kaalaman para sa maayos na pagkakasunod-sunod ng isang gawain mula umpisa hanggang sa wakas.
 - ***Kronolohikal***. Ito ay pagkakasunod-sunod ng mga magkakaugnay na pangyayari ayon sa tamang panahon at oras.
 
+## Aralin 3: Tekstong Argumentatibo at Persweysib
+
+_March 09 2021_
+
+#### Layunin
+
+- Maipaliwanag ang kahulugan ng **tekstong argumentatibo at persweysib**
+- Makilala at maunawaan ang elemento at uri ng **tekstong argumentatibo at persweysib**
+
+### Tekstong Argumentatibo
+
+Ito ay naglalahad ng paniniwala, pagkukuro, o pagbibigay ng pananaw patungkol sa isang mahalaga o maselang isyu. Gamit ang mga ebidensiya galing sa sariling karanasan., pag-aaral, literatura, kasaysayan, at pananaliksik.
+
+Layunin nitong mahikayat ang mga mambabasang tanggapin ang mga argumentong inilalahad sa pamamagitan ng mga pangangatwiran.
+
+#### Tekstong Argumentatibo
+
+1. Nangungumbinsi batay sa datos o impormasyon.
+2. Nakakahikayat dahil sa merito ng ebidensya.
+3. Obhetibo.
+
+#### Tekstong Persweysib
+
+1. Nangungumbinsi batay sa damdamin at opinyon.
+2. Nakakahikayat sa pamamagitan ng pagpukaw ng emosyon ng mambabasa at pagpokus sa kredibilidad ng may-akda.
+3. Subhetibo.
+
+### 10 Maling Pangangatwiran
+
+1. Argumentatum Ad Hominem
+	- Isang nakakahiyang pag-atake sa personal na katangian/katayuan ng katalo at hindi sa isyung tinatalakay.
+	- Halimbawa:
+		- Hindi magiging mabuting lider ng bayan si Juan sapagkat siya'y isang binabae.
+
+2. Argumentatum Ad Baculum
+	- Pwersa o awtoridad ang gamit upang maiwasan ang isyu at tuloy maipanalo ang argumento
+	- Halimbawa:
+		- Tumigil ka sa sinasabi mo! Anak lang kita at wala kang karapatang magsalita sa akin nang ganyan! Baka sampalin kita at nang makita mo ang hinahanap mo!
+
+3. Argumentatum Ad Misercordiam
+	- Upang makamit ang awa at pagkampi ng mga nakikinig/bumabasa, ginagamit ito sa paraang pumipili ng mga salitang umaatake sa damdamin at hindi kaisipan.
+	- Halimbawa:
+		- Limusan natin ang mga kapuspalad na taong ito sa lansangan. Hindi ba natin nakikita ang marurumi nilang damit, payat na pangangatawan at nanlalalim na mga mata? Ano na lamang ba ang magbigay na ilang sentimos bilang pantawid-gutom.
+
+4. Non Sequitor
+	- Sa Ingles ay ibig-sabihin ay ***IT DOESN'T FOLLOW***. Pagbibigay ito ng konklusyon sa kabila ng mga walang kaugnayang batayan.
+	- Halimbawa:
+		- Ang mga babae ay higit na masisipag magtrabaho kaysa mga lalaki; kung gayon, sila ay may higit na karapatang magreklamo sa trabaho.
+
+5. Ignoration Elenchi
+	- Gamit	ito ng mga Pilipino lalo na sa mga usapang barberya. Ito ay kilala sa Ingles na *circular reasoning* o paliguy-ligoy kaya walang patutunguhan.
+	- Halimbawa:
+		- Hindi siya ang nanggahasa sa dalaga sa katunaya'y isa siyang mabuting anak at mapapatunayan iyan ng kanyang mga magulang, kapatid, kamag-anak at kaibigan.
+
+6. Maling Panlalahat
+	- Dahil lamang sa ilang sistema at sitwasyon, nagbibigay na agad ng isang konklusyong sumasaklaw sa pangakalahatan.
+	- Halimbawa:
+		- Mahirap mabuhay sa Manila kung kaya't masasabing mahirap mabuhay sa buong Pilipinas.
+
+7. Maling Paghahambing
+	- Karaniwang tinatawag na usapang lasing ang ganitong uri sapagkat mayroon ngang hambingan ngunit hindi naman sumasala sa matinong konklusyon.
+	- Halimbawa:
+		- Bakit ninyo ako patutulugin agad? Kung kayo nga ay gising pa! (Sagot ng anak sa ina)
+
+8. Maling Saligan
+	- Nagsisimula sa maling akala na siyang naging batayan. Ipagpatuloy ang gayon hanggang magkaroon ng konklusyong wala sa katwiran.
+	- Halimbawa:
+		- Lahat ng kabataan ay pagaasawa ang iniisip. Sa pag-aasawa, kailangan ang katapatan at kasipagan upang magtagumpay. Dahil dito, dapat lamang na maging tapat at masipag ang mga kabataan.
+
+9. Dilemma
+	- Naghahandog lamang ng dalawang opsyon/pagpipilian na para bang iyon lamang at wala nang iba pang alternatibo.
+	- Halimbawa:
+		- Upang hindi ka mapahiya sa ating debate, ganito na lamang ang gawin mo: huwag ka nang pumunta o kaya ay magsabmit ka ng papel na nagsasaad ng iyong pag-urong.
+
+10. Maling Awtoridad
+	- Naglalahad ng tao o sangguniang walang kinalaman sa isyung kasangkot.
+	- Halimbawa:
+		- Ang Kristiyano ay pananampalataya ng mga mahihina. Iyan ang ipinahayag ni Karl Marx.
+
+### Tekstong Persweysiv
+
+Manghikayat, mabago at mapaniwala ang pag-iisip at damdamin ng isang mambabasa sa pamamagitan ng paggamit ng mga pahayag na kaakit-akit na hahantong sa isang lohikal na konklusyon.
+
+### Iba't Ibang Uri ng mga Propaganda Device
+
+**Name Calling**
+- Pagbibigay ng hindi magandang taguri sa isang produkto o katunggali upang hindi tangkilikin.
+
+**Glittering Generalities**
+- Ang magaganda at nakasisilaw na pahayag ukol sa isang produktong tumutug;on sa mga paniniwala at pagpapahalaga ng mambabasa.
+
+**Transfer**
+- Paggamit ng isang sikat na personalidad upang mailipat sa isang produkto o tao ang kasikatan.
+
+**Testimonial**
+- Kapag ang isang sikat na tao ay tuwirang nagendorso ng isang tao o produkto.
+
+**Plain Folks**
+- Mga kialala o tanyag na tao ay pinapalabas na ordinaryong tao na nanghihikayat sa produkto o serbisyo.
+
+**Card Stacking**
+- Ipinakikita ang lahat ng magagandang katangian ng produkto ngunit hindi binabanggit ang hindi magandang katangian.
+
+**Bandwagon**
+- Hinihimok ang lahat na gamitin ang isang produkto o sumali sa isang pangkat dahil lahat ay sumali na.
+

@@ -51,39 +51,39 @@ Currently, I am reading War and Peace, by Leo Tolstoy, and I’m not sure if I�
 
 #### **3rd Quarter**
 
-1. Written Work 1
+1. Written Work 1 - `10/10`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/rw/3q/rw-ww1.png?raw=true)
 
-2. Written Work 2
+2. Written Work 2 - `10/10`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/rw/3q/rw-ww2.png?raw=true)
 
-3. Written Work 3: Circle Chat
+3. Written Work 3: Circle Chat - `10/10`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/rw/3q/rw-ww3.png?raw=true)
 
-4. Written Work 4: Unified or Not?
+4. Written Work 4: Unified or Not? - `10/10`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/rw/3q/rw-ww4.png?raw=true)
 
-5. Written Work 5: Odd One Out!
+5. Written Work 5: Odd One Out! - `10/10`
 
-6. Written Work 6: Revision through Cohesion
+6. Written Work 6: Revision through Cohesion - `12/12`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/rw/3q/rw-ww6.png?raw=true)
 
 #### **4th Quarter**
 
-1. Written Work 1
+1. Written Work 1 - `15/15`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/rw/4q/rw-ww1.png?raw=true)
 
-2. Written Work 2
+2. Written Work 2  - `15/15`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/rw/4q/rw-ww2.png?raw=true)
 
-3. Written Work 3
+3. Written Work 3 - `?/15`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/rw/4q/rw-ww3.png?raw=true)
 
@@ -152,20 +152,20 @@ The only thing I have to work on is the punctuality.
 
 #### **3rd Quarter**
 
-1. Mini Performance Task 1: Revising through Cohesion
-2. Mini Performance Task 2: Comparing & Contrasting
+1. Mini Performance Task 1: Revising through Cohesion - `15/15`
+2. Mini Performance Task 2: Comparing & Contrasting - `15/15`
 
 #### **4th Quarter**
 
-1. Mini Performance Task 1
+1. Mini Performance Task 1 - `?/25`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/rw/4q/rw-mpt1.png?raw=true)
 
-2. Mini Performance Task 2
+2. Mini Performance Task 2 - `?/20`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/rw/4q/rw-mpt2.png?raw=true)
 
-3. Mini Performance Task 2 Part 2
+3. Mini Performance Task 2 Part 2 - `?/20`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/rw/4q/rw-mpt3.png?raw=true)
 
@@ -225,29 +225,29 @@ I need to improve in being more comprehensive in most of my writings, because I 
 
 #### **3rd Quarter**
 
-1. Written Work 1
+1. Written Work 1 - `19/20`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/pe/3q/pe-ww1.png?raw=true)
 
-2. Written Work 2
+2. Written Work 2 - `22/25`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/pe/3q/pe-ww2.png?raw=true)
 
-3. Written Work 3
+3. Written Work 3 - `29/30`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/pe/3q/pe-ww3.png?raw=true)
 
 #### **4th Quarter**
 
-1. Written Work 1
+1. Written Work 1 - `9/10`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/pe/4q/pe-ww1.png?raw=true)
 
-2. Written Work 2
+2. Written Work 2 - `20/20`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/pe/4q/pe-ww2.png?raw=true)
 
-3. Written Work 3
+3. Written Work 3 - `19/20`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/pe/4q/pe-ww3.png?raw=true)
 
@@ -305,37 +305,37 @@ So far, I didn’t any problems in the written works side of the tasks given to 
 
 #### **3rd Quarter**
 
-1. Performance Task 1
+1. Performance Task 1 - `25/30`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/pe/3q/pe-mpt1.png?raw=true)
 
-2. Performance Task 2
+2. Performance Task 2 - `29/30`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/pe/3q/pe-mpt2.png?raw=true)
 
-3. Performance Task 3
+3. Performance Task 3 - `29/30`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/pe/3q/pe-mpt3.png?raw=true)
 
-4. Performance Task 4
+4. Performance Task 4 - `30/30`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/pe/3q/pe-mpt4.png?raw=true)
 
 #### **4th Quarter**
 
-1. Performance Task 1
+1. Performance Task 1 - `25/30`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/pe/4q/pe-mpt1.png?raw=true)
 
-2. Performance Task 2
+2. Performance Task 2 - `39/40`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/pe/4q/pe-mpt2.png?raw=true)
 
-3. Performance Task 3
+3. Performance Task 3 - `49/50`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/pe/4q/pe-mpt3.png?raw=true)
 
-4. Performance Task 4
+4. Performance Task 4 - `?/30`
 
 ### Explain exactly what you were required to do in this Performance Task?
 
@@ -399,49 +399,49 @@ I believe I have done my best and there’s nothing much to point out, aside fro
 
 #### **3rd Quarter**
 
-1. Activity 1
+1. Activity 1 - `30/30`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/dr/3q/dr-ww1.png?raw=true)
 
-2. Activity 2
+2. Activity 2 - `15/15`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/dr/3q/dr-ww2.png?raw=true)
 
-3. Activity 3
+3. Activity 3 - `30/30`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/dr/3q/dr-ww3.png?raw=true)
 
-4. Written Work: Potential Earthquake Hazards
+4. Written Work: Potential Earthquake Hazards - `20/20`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/dr/3q/dr-ww4.png?raw=true)
 
-5. Written Work: Erupt-A-Word
+5. Written Work: Erupt-A-Word - `27/27`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/dr/3q/dr-ww5.png?raw=true)
 
 #### **4th Quarter**
 
-1. Written Work 1
+1. Written Work 1 - `10/10`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/dr/4q/dr-ww1.jpg?raw=true)
 
-2. Written Work 2
+2. Written Work 2 - `10/10`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/dr/4q/dr-ww2.png?raw=true)
 
-3. Written Work 3
+3. Written Work 3 - `10/10`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/dr/4q/dr-ww3.png?raw=true)
 
-4. Written Work 4
+4. Written Work 4 - `10/10`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/dr/4q/dr-ww4.png?raw=true)
 
-5. Written Work 5
+5. Written Work 5 - `9/10`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/dr/4q/dr-ww5.png?raw=true)
 
-6. Written Work 6
+6. Written Work 6 - `9/10`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/dr/4q/dr-ww6.png?raw=true)
 
@@ -509,33 +509,33 @@ This time, I feel like I can do even more and even better, which is what I aim i
 
 #### **3rd Quarter**
 
-1. Mini Performance Task: Hunt for Hazards
+1. Mini Performance Task: Hunt for Hazards - `50/50`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/dr/3q/dr-mpt1.png?raw=true)
 
-2. Mini Performance Task 2: Tsunami
+2. Mini Performance Task 2: Tsunami - `50/50`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/dr/3q/dr-mpt2.png?raw=true)
 
 #### **4th Quarter**
 
-1. Mini Performance Task 1
+1. Mini Performance Task 1 - `50/50`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/dr/4q/dr-mpt1.png?raw=true)
 
-2. Mini Performance Task 2
+2. Mini Performance Task 2 - `50/50`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/dr/4q/dr-mpt2.png?raw=true)
 
-3. Mini Performance Task 3
+3. Mini Performance Task 3 - `100/100`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/dr/4q/dr-mpt3.png?raw=true)
 
-4. Mini Performance Task 4
+4. Mini Performance Task 4 - `50/50`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/dr/4q/dr-mpt4.png?raw=true)
 
-5. Mini Performance Task 5
+5. Mini Performance Task 5 - `50/50`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/dr/4q/dr-mpt5.png?raw=true)
 
@@ -596,22 +596,22 @@ I don’t have a task to criticize this quarter, and I’m proud of that. Like I
 
 #### **3rd Quarter**
 
-1. Gawain 1
-2. Gawain 2
-3. Gawain 3
-4. Gawain 4
+1. Gawain 1 - `20/20`
+2. Gawain 2 - `20/20`
+3. Gawain 3 - `13/16`
+4. Gawain 4 - `10/10`
 
 #### **4th Quarter**
 
-1. Gawain 1
+1. Gawain 1 - `20/20`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/kp/4q/kp-ww1.png?raw=true)
 
-2. Gawain 2
+2. Gawain 2 - `20/20`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/kp/4q/kp-ww2.png?raw=true)
 
-3. Gawain 3
+3. Gawain 3 - `?/20`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/kp/4q/kp-ww3.png?raw=true)
 
@@ -667,7 +667,7 @@ Siguro yung Gawain 3. Pero normal naman po magkamali, ‘di ko lang po ata napag
 
 #### **3rd Quarter**
 
-1. Mini Performance Task: Pagsusuri ng Speech Act
+1. Mini Performance Task: Pagsusuri ng Speech Act - `25/25`
 
 #### **4th Quarter**
 
@@ -711,27 +711,27 @@ Tulad ng aking palagay kanina, nagawa ko nang maigi ang performance task na ito.
 
 #### **3rd Quarter**
 
-1. WW1: Exercise Set 1
+1. WW1: Exercise Set 1 - `13/20`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/3q/gc2-ww1.png?raw=true)
 
-2. WW2: Self Evaluation (Virtual Lab)
+2. WW2: Self Evaluation (Virtual Lab) - `5/5`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/3q/gc2-ww2.png?raw=true)
 
-3. WW3: Solutions Terminology
+3. WW3: Solutions Terminology - `7/10`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/3q/gc2-ww3.png?raw=true)
 
-4. WW4: Exercise Set 2
+4. WW4: Exercise Set 2 - `28/30`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/3q/gc2-ww4.png?raw=true)
 
-5. WW5: Standard Enthalpy Formation & Hess' Law
+5. WW5: Standard Enthalpy Formation & Hess' Law - `10/10`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/3q/gc2-ww5.png?raw=true)
 
-6. WW6: Hess’ Law
+6. WW6: Hess’ Law - `10/10`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/3q/gc2-ww6.png?raw=true)
 
@@ -785,11 +785,11 @@ I didn’t perform well enough in Written Work 3, probably because I didn’t re
 
 #### **3rd Quarter**
 
-1. MPT: The Study of Phase Change (Virtual Lab)
+1. MPT: The Study of Phase Change (Virtual Lab) - `50/50`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/3q/gc2-mpt1.png?raw=true)
 
-2. MPT 2: Concentration
+2. MPT 2: Concentration - `50/50`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/3q/gc2-mpt2.png?raw=true)
 
@@ -837,15 +837,15 @@ I believe I did well in all the MPTs and that there isn’t anything more to ans
 
 #### **3rd Quarter**
 
-1. Task 1: Practical Research
+1. Task 1: Practical Research - `96/100`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/pr/3q/pr-ww1.png?raw=true)
 
-2. Task 2: Qualitative Research Across Fields
+2. Task 2: Qualitative Research Across Fields - `100/100`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/pr/3q/pr-ww2.png?raw=true)
 
-3. Task 4: Statement of the Problem and Beneficiaries of Research Project
+3. Task 4: Statement of the Problem and Beneficiaries of Research Project - `97/100`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/pr/3q/pr-ww3.png?raw=true)
 
@@ -893,11 +893,11 @@ I don’t have a written work in my mind that I did that bad on. But the closest
 
 #### **3rd Quarter**
 
-1. Task 3: Project Proposal and Purpose of Study
+1. Task 3: Project Proposal and Purpose of Study - `98/100`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/pr/3q/pr-mpt1.png?raw=true)
 
-2. Task 5: Research Framework and Scope and Limitations of the Study
+2. Task 5: Research Framework and Scope and Limitations of the Study - `96/100`
 
 #### **4th Quarter**
 
@@ -942,31 +942,31 @@ Not much, I’m happy with my results. But there’s still room for growth and i
 ### What are the Written Works?
 #### **3rd Quarter**
 
-1. Activity 3.1: Graphs of Sine and Cosine Functions
+1. Activity 3.1: Graphs of Sine and Cosine Functions - `10/10`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/bc/3q/bc-ww1.png?raw=true)
 
-2. Activity 3.2: Graphs of Inverse Trigonometric Functions
+2. Activity 3.2: Graphs of Inverse Trigonometric Functions - `10/10`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/bc/3q/bc-ww2.png?raw=true)
 
-3. Quiz 3.0: Graphs of Trigonometric Functions
+3. Quiz 3.0: Graphs of Trigonometric Functions - `15/15`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/bc/3q/bc-ww3.png?raw=true)
 
-4. Activity 3.3: Verifying Trigonometric Identities
+4. Activity 3.3: Verifying Trigonometric Identities - `15/15`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/bc/3q/bc-ww4.png?raw=true)
 
-5. Activity 3.4: Laws of Limits
+5. Activity 3.4: Laws of Limits - `8/8`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/bc/3q/bc-ww5.png?raw=true)
 
-6. Activity 3.5: One Sided Limits
+6. Activity 3.5: One Sided Limits - `15/15`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/bc/3q/bc-ww6.png?raw=true)
 
-7. Activity 3.6: Infinite Limits
+7. Activity 3.6: Infinite Limits - `10/10`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/bc/3q/bc-ww7.png?raw=true)
 
@@ -1016,15 +1016,15 @@ There was a lot of confusion in Activity 3.6, which I need to improve on by prac
 ### What are the Performance Tasks?
 #### **3rd Quarter**
 
-1. Mini Task 3.1: Trigonometric Identities (Group Activity)
+1. Mini Task 3.1: Trigonometric Identities (Group Activity) - `10/10`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/bc/3q/bc-mpt1.png?raw=true)
 
-2. Mini Task 3.2: Limits (Group Activity)
+2. Mini Task 3.2: Limits (Group Activity) - `10/10`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/bc/3q/bc-mpt2.png?raw=true)
 
-3. PeTa: Trigonometric Functions and Limits
+3. PeTa: Trigonometric Functions and Limits - `27/30`
 
 #### **4th Quarter**
 
@@ -1067,23 +1067,23 @@ One thing I didn’t do well in these performance tasks was my punctuality, and 
 ### What are the Written Works?
 #### **3rd Quarter**
 
-1. WW1: Random Variables
+1. WW1: Random Variables - `20/20`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/sp/3q/sp-ww1.png?raw=true)
 
-2. WW2: Discrete Probability Distribution (Seatwork 1)
+2. WW2: Discrete Probability Distribution (Seatwork 1) - `20/20`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/sp/3q/sp-ww2.png?raw=true)
 
-3. WW3 (Group Activity)
+3. WW3 (Group Activity) - `17/20`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/sp/3q/sp-ww3.png?raw=true)
 
-4. WW4: Standard Scores (Seatwork 2)
+4. WW4: Standard Scores (Seatwork 2) - `16/20`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/sp/3q/sp-ww4.png?raw=true)
 
-5. WW5: Mean, Variance, and Standard Deviation of Sampling Distribution of the Sample Means
+5. WW5: Mean, Variance, and Standard Deviation of Sampling Distribution of the Sample Means - `50/50`
 
 #### **4th Quarter**
 
@@ -1127,7 +1127,7 @@ I’d like to tell myself to keep this work up for the next quarter.
 ### What are the Performance Tasks?
 #### **3rd Quarter**
 
-1. MPT1: Mean, Variance, Standard Deviation
+1. MPT1: Mean, Variance, Standard Deviation - `30/30`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/sp/3q/sp-mpt1.png?raw=true)
 

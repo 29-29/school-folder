@@ -270,3 +270,13 @@ Manghikayat, mabago at mapaniwala ang pag-iisip at damdamin ng isang mambabasa s
 **Bandwagon**
 - Hinihimok ang lahat na gamitin ang isang produkto o sumali sa isang pangkat dahil lahat ay sumali na.
 
+### Tatlong Paraan ng Panghihikayat ayon kay Aristotle
+
+**Ethos**
+- Tumutukoy sa kredibilidad ng manunula.
+
+**Pathos**
+- Gamit ng emosyon o damdamin upang mahikayat ang mambabasa.
+
+**Logos**
+- Tumutukoy sa paggamit ng lohika upang makumbinsi ang mambabasa.

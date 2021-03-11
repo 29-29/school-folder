@@ -20,18 +20,21 @@
 4. [Komunikasyon at Pananaliksik](#komunikasyon-at-pananaliksik)
 	1. [Written Works](#written-works-3)
 	2. [Performance Tasks](#performance-tasks-3)
-5. [General Chemistry 2](#general-chemistry-2)
+5. [Understanding Culture, Society, & Politics](#understanding-culture-society--politics)
 	1. [Written Works](#written-works-4)
 	2. [Performance Tasks](#performance-tasks-4)
-6. [Practical Research](#practical-research)
+6. [General Chemistry 2](#general-chemistry-2)
 	1. [Written Works](#written-works-5)
 	2. [Performance Tasks](#performance-tasks-5)
-7. [Basic Calculus](#basic-calculus)
+7. [Practical Research](#practical-research)
 	1. [Written Works](#written-works-6)
 	2. [Performance Tasks](#performance-tasks-6)
-8. [Statistics & Probability](#statistics--probability)
+8. [Basic Calculus](#basic-calculus)
 	1. [Written Works](#written-works-7)
 	2. [Performance Tasks](#performance-tasks-7)
+9. [Statistics & Probability](#statistics--probability)
+	1. [Written Works](#written-works-8)
+	2. [Performance Tasks](#performance-tasks-8)
 
 # Personal Page
 
@@ -701,6 +704,42 @@ Sa palagay ko, nagawa ko itong performance task nang maigi, dahil nakasabay nga 
 
 Tulad ng aking palagay kanina, nagawa ko nang maigi ang performance task na ito.
 
+#### **4th Quarter**
+
+
+
+# Understanding Culture, Society, & Politics
+## Written Works
+### What are the Written Works?
+#### **3rd Quarter**
+#### **4th Quarter**
+### Explain what exactly you were required to do in these Written Works?
+#### **3rd Quarter**
+#### **4th Quarter**
+### What information was the most interesting/surprising to you?
+#### **3rd Quarter**
+#### **4th Quarter**
+### Which of the Written Works you did well? Why?
+#### **3rd Quarter**
+#### **4th Quarter**
+### In what Written Work do you need to improve? How?
+#### **3rd Quarter**
+#### **4th Quarter**
+## Performance Tasks
+### What are the Performance Tasks?
+#### **3rd Quarter**
+#### **4th Quarter**
+### Explain exactly what you were required to do in this Performance Task?
+#### **3rd Quarter**
+#### **4th Quarter**
+### How may the skills that you have developed in this Performance Task be of help to you in your future career?
+#### **3rd Quarter**
+#### **4th Quarter**
+### Which of the Performance Tasks you did well in? Why?
+#### **3rd Quarter**
+#### **4th Quarter**
+### In what Performance Task do you need to improve? How?
+#### **3rd Quarter**
 #### **4th Quarter**
 
 # General Chemistry 2

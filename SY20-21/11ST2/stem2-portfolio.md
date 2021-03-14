@@ -22,19 +22,18 @@
 	2. [Performance Tasks](#performance-tasks-3)
 5. [Understanding Culture, Society, & Politics](#understanding-culture-society--politics)
 	1. [Written Works](#written-works-4)
-	2. [Performance Tasks](#performance-tasks-4)
 6. [General Chemistry 2](#general-chemistry-2)
 	1. [Written Works](#written-works-5)
-	2. [Performance Tasks](#performance-tasks-5)
+	2. [Performance Tasks](#performance-tasks-4)
 7. [Practical Research](#practical-research)
 	1. [Written Works](#written-works-6)
-	2. [Performance Tasks](#performance-tasks-6)
+	2. [Performance Tasks](#performance-tasks-5)
 8. [Basic Calculus](#basic-calculus)
 	1. [Written Works](#written-works-7)
-	2. [Performance Tasks](#performance-tasks-7)
+	2. [Performance Tasks](#performance-tasks-6)
 9. [Statistics & Probability](#statistics--probability)
 	1. [Written Works](#written-works-8)
-	2. [Performance Tasks](#performance-tasks-8)
+	2. [Performance Tasks](#performance-tasks-7)
 
 # Personal Page
 
@@ -711,36 +710,37 @@ Tulad ng aking palagay kanina, nagawa ko nang maigi ang performance task na ito.
 # Understanding Culture, Society, & Politics
 ## Written Works
 ### What are the Written Works?
-#### **3rd Quarter**
 #### **4th Quarter**
+
+1. Chart of Culture
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/ucsp/4q/ucsp-ww1.png?raw=true)
+
+2. How Societies are Organized
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/ucsp/4q/ucsp-ww2.png?raw=true)
+
 ### Explain what exactly you were required to do in these Written Works?
-#### **3rd Quarter**
 #### **4th Quarter**
+
+1. In this written work, we filled out a table about different cultures with our groupmates.
+2. In this written work, we filled out a table about how societies are organized, and we also did this activity with another set of groupmates.
+
 ### What information was the most interesting/surprising to you?
-#### **3rd Quarter**
 #### **4th Quarter**
+
+1. I learned about the elements of culture such as beliefs, practices, values, attitudes, and etc.
+2. I learned about how societies are organized socially, culturally, economically, and politically.
+
 ### Which of the Written Works you did well? Why?
-#### **3rd Quarter**
 #### **4th Quarter**
+
+I'd say I did well in all of the written works, since two and more brains are better than one.
+
 ### In what Written Work do you need to improve? How?
-#### **3rd Quarter**
 #### **4th Quarter**
-## Performance Tasks
-### What are the Performance Tasks?
-#### **3rd Quarter**
-#### **4th Quarter**
-### Explain exactly what you were required to do in this Performance Task?
-#### **3rd Quarter**
-#### **4th Quarter**
-### How may the skills that you have developed in this Performance Task be of help to you in your future career?
-#### **3rd Quarter**
-#### **4th Quarter**
-### Which of the Performance Tasks you did well in? Why?
-#### **3rd Quarter**
-#### **4th Quarter**
-### In what Performance Task do you need to improve? How?
-#### **3rd Quarter**
-#### **4th Quarter**
+
+I think I need to contribute more to the group since I didn't do much in the first written work activity.
 
 # General Chemistry 2
 

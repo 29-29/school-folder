@@ -664,14 +664,16 @@ Siguro yung Gawain 3. Pero normal naman po magkamali, ‘di ko lang po ata napag
 #### **4th Quarter**
 
 ## Performance Tasks
-
 ### What are the Performance Tasks?
-
 #### **3rd Quarter**
 
 1. Mini Performance Task: Pagsusuri ng Speech Act - `25/25`
 
 #### **4th Quarter**
+
+1. Mini Performance Task 1: Pagsulat ng Sariling Likhang Kwento - `?/35`
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/kp/4q/kp-mpt1.png?raw=true)
 
 ### Explain exactly what you were required to do in this Performance Task?
 
@@ -681,31 +683,34 @@ Siguro yung Gawain 3. Pero normal naman po magkamali, ‘di ko lang po ata napag
 
 #### **4th Quarter**
 
-### How may the skills that you have developed in this Performance Task be of help to you in your future career?
+1. Sa mini peta na ito, lumikha kami ng sarili naming kwento kasama ang aming grupo sa thesis. Ginamit namin ang iba't ibang uri ng teksto, tulad ng tekstong naratibo, deskriptibo, at prosidyural.
 
+### How may the skills that you have developed in this Performance Task be of help to you in your future career?
 #### **3rd Quarter**
 
 1. Makakatulong ito dahil ang araw-araw buhay sa mga susunod na taon ay magiging puno ng komunikasyon ng iba't ibang uri, kaya ito importante.
 
 #### **4th Quarter**
 
-### Which of the Performance Tasks you did well in? Why?
+1. Makakatulonh ito dahil naiinteresado ako sa pagsulat ng mga kwento at storya, at medyo nakislap ng aktibidad na ito ang pagkamalikhain ng ko sa paggawa ng mga tauhan, banghay, at kwento ng isang storya.
 
+### Which of the Performance Tasks you did well in? Why?
 #### **3rd Quarter**
 
 Sa palagay ko, nagawa ko itong performance task nang maigi, dahil nakasabay nga ako sa discussion ng klase at naintindihan ko ang aralin.
 
 #### **4th Quarter**
 
-### In what Performance Task do you need to improve? How?
+Sa aking palagay, nagawa NAMIN ang performance na ito nang maigi dahil napag-usapan namin ng aking mga kagrupo ang storya ng maigi. Masaya rin ako sa aming natapos at sa aking kontribusyon sa grupo.
 
+### In what Performance Task do you need to improve? How?
 #### **3rd Quarter**
 
 Tulad ng aking palagay kanina, nagawa ko nang maigi ang performance task na ito.
 
 #### **4th Quarter**
 
-
+Aking nasabi kanina, na maayos naman ang gawa ko sa performance task ngayon quarter. Nais kong dalhin itong sikap at tyaga sa susunod na taon ng pag-aaral.
 
 # Understanding Culture, Society, & Politics
 ## Written Works
@@ -743,11 +748,8 @@ I'd say I did well in all of the written works, since two and more brains are be
 I think I need to contribute more to the group since I didn't do much in the first written work activity.
 
 # General Chemistry 2
-
 ## Written Works
-
 ### What are the Written Works?
-
 #### **3rd Quarter**
 
 1. WW1: Exercise Set 1 - `13/20`

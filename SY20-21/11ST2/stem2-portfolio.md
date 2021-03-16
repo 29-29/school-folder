@@ -787,6 +787,14 @@ I think I need to contribute more to the group since I didn't do much in the fir
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/4q/gc2-ww3.png?raw=true)
 
+4. WW4: Predicting Entropy Changes
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/4q/gc2-ww4.png?raw=true)
+
+5. WW5: Calculating an Entropy Change
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/4q/gc2-ww5.png?raw=true)
+
 ### Explain what exactly you were required to do in these Written Works?
 
 #### **3rd Quarter**
@@ -803,6 +811,8 @@ I think I need to contribute more to the group since I didn't do much in the fir
 1. In this written work, we answered a Google Form about the lesson we discussed, which is about Chemical Kinetics and rate of reaction.
 2. In this written work, we answered #15 on page 169 of the textbook.
 3. In this written work, we answered a Google Form about our discussion for today, which is about half-life and the Arrhenius Equation.
+4. In this written work, we answered some practice problems in Page 183 of the book about predicting entropy change.
+5. In this written work, we answered some more practice problems in Page 184 of the textbook. This time, though, we calculated the entropy change for the given chemical reactions.
 
 ### What information was the most interesting/surprising to you?
 #### **3rd Quarter**
@@ -819,6 +829,8 @@ I think I need to contribute more to the group since I didn't do much in the fir
 1. I learned about chemical kinetics, yet another room in the field of chemistry. Gets me more interested.
 2. I'm glad to have friends that help me when I need help with understanding some concepts that I missed, because they really did help me this time, a lot.
 3. I was quite familiar with topic half-life, since we discussed it last year with Ma'am Arlene.
+4. I learned about some concepts about entropies of substances and how entropy change varies in different kinds of chemical reactions.
+5. I learned how to solve for how much the entropy changed for given reactions, which was fairly obvious and an understandable process.
 
 ### Which of the Written Works you did well? Why?
 #### **3rd Quarter**

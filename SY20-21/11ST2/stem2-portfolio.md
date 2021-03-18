@@ -779,21 +779,29 @@ I think I need to contribute more to the group since I didn't do much in the fir
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/4q/gc2-ww1.png?raw=true)
 
-2. WW2: Activation Energy - `?/10`
+2. WW2: Activation Energy - `10/10`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/4q/gc2-ww2.png?raw=true)
 
 3. WW3: Collision Theory & Arrhenius Equation - `4/5`
 
-	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/4q/gc2-ww3.png?raw=true)
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/4q/gc-ww3.png?raw=true)
 
-4. WW4: Predicting Entropy Changes
+4. WW4: Predicting Entropy Changes - `15/15`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/4q/gc2-ww4.png?raw=true)
 
-5. WW5: Calculating an Entropy Change
+5. WW5: Calculating an Entropy Change - `15/15`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/4q/gc2-ww5.png?raw=true)
+
+6. WW6: Estimation for Equilibrium Constant K Value - `?/15`
+
+	<img src="./gc2 [General Chemistry 2]/4Q/gc2-ww6-1.jpg" height="500px">
+
+7. WW7: Calculating delta G Given Constant Temperature - `?/10`
+
+	<img src="./gc2 [General Chemistry 2]/4Q/gc2-ww7.jpg" height="500px">
 
 ### Explain what exactly you were required to do in these Written Works?
 
@@ -813,6 +821,8 @@ I think I need to contribute more to the group since I didn't do much in the fir
 3. In this written work, we answered a Google Form about our discussion for today, which is about half-life and the Arrhenius Equation.
 4. In this written work, we answered some practice problems in Page 183 of the book about predicting entropy change.
 5. In this written work, we answered some more practice problems in Page 184 of the textbook. This time, though, we calculated the entropy change for the given chemical reactions.
+6. In this written work, we answered #25 a, b and c of page 210-11 in the textbook.
+7. In this written work, we answered #26 a & b of page 211 in the textbook.
 
 ### What information was the most interesting/surprising to you?
 #### **3rd Quarter**
@@ -831,6 +841,8 @@ I think I need to contribute more to the group since I didn't do much in the fir
 3. I was quite familiar with topic half-life, since we discussed it last year with Ma'am Arlene.
 4. I learned about some concepts about entropies of substances and how entropy change varies in different kinds of chemical reactions.
 5. I learned how to solve for how much the entropy changed for given reactions, which was fairly obvious and an understandable process.
+6. I wasn't really surprised to be solving mathematical problems in Chemistry but I didn't expect things to go this far.
+7. I got my solving and logical skills trained and practiced in this written work.
 
 ### Which of the Written Works you did well? Why?
 #### **3rd Quarter**
@@ -839,12 +851,16 @@ I believe that I did an excellent job on Written Work 6, because I had the help 
 
 #### **4th Quarter**
 
+I believe I did an excellent job in all the written works. Which I would applaud myself for, except for some stuff.
+
 ### In what Written Work do you need to improve? How?
 #### **3rd Quarter**
 
 I didn’t perform well enough in Written Work 3, probably because I didn’t review what I just learned thoroughly. I should though next time.
 
 #### **4th Quarter**
+
+The *some stuff* I was referring to in the previous question was my punctuality in the last few tasks. Although I was very confident that I would submit my tasks on or , more importantly, before time. This is just a little pebble that I might've tripped on on the way to being an excellent student.
 
 ## Performance Tasks
 ### What are the Performance Tasks?
@@ -859,6 +875,14 @@ I didn’t perform well enough in Written Work 3, probably because I didn’t re
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/3q/gc2-mpt2.png?raw=true)
 
 #### **4th Quarter**
+
+1. MPT1: Reaction Rates - `?/50`
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/4q/gc2-mpt1.png?raw=true)
+
+2. MPT2: Factors Affecting Reaction Rates: Temperature - `?/50`
+
+	![](gc2%20[General%20Chemistry%202]/4Q/gc2-mpt2.png)
 
 ### Explain exactly what you were required to do in this Performance Task?
 #### **3rd Quarter**

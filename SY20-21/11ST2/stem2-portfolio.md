@@ -785,7 +785,7 @@ I think I need to contribute more to the group since I didn't do much in the fir
 
 3. WW3: Collision Theory & Arrhenius Equation - `4/5`
 
-	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/4q/gc-ww3.png?raw=true)
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/4q/gc2-ww3.png?raw=true)
 
 4. WW4: Predicting Entropy Changes - `15/15`
 
@@ -892,6 +892,9 @@ The *some stuff* I was referring to in the previous question was my punctuality 
 
 #### **4th Quarter**
 
+1. In this mini performance task, we investigated factors that could affect reaction rates and how these variables relate to each other.
+2. In this mini performance task, we investigated how temperature affects the rate of reaction through a simulation on the internet.
+
 ### How may the skills that you have developed in this Performance Task be of help to you in your future career?
 #### **3rd Quarter**
 
@@ -900,12 +903,17 @@ The *some stuff* I was referring to in the previous question was my punctuality 
 
 #### **4th Quarter**
 
+1. This performance task helped me recall the scientific method that is hypothesis, experimentation, so on, and so forth.
+2. This performance task also helped me recall and enable me to use the scientific method in a fair manner.
+
 ### Which of the Performance Tasks you did well in? Why?
 #### **3rd Quarter**
 
 I must say I did well in the Concentration MPT, because I really like the topic. Maybe because of the math that the lesson uses.
 
 #### **4th Quarter**
+
+I feel I did well in the two performance task given to us, with the help of reviewing of the topics every now and then, I was able to accomplish the tasks successfully.
 
 ### In what Performance Task do you need to improve? How?
 #### **3rd Quarter**
@@ -914,7 +922,7 @@ I believe I did well in all the MPTs and that there isn’t anything more to ans
 
 #### **4th Quarter**
 
-
+A problem I again face is punctuality, which I'd say I did well most of the time, but not this time. I have to work on that.
 
 # Practical Research
 ## Written Works

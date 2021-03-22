@@ -46,11 +46,8 @@ Currently, I am reading War and Peace, by Leo Tolstoy, and I’m not sure if I�
 * * *
 
 # Reading & Writing
-
 ## Written Works
-
 ### What are the Written Works?
-
 #### **3rd Quarter**
 
 1. Written Work 1 - `10/10`
@@ -778,6 +775,34 @@ I think I need to contribute more to the group since I didn't do much in the fir
 
 #### **4th Quarter**
 
+1. WW1: Chemical Reactions - `10/10`
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/4q/gc2-ww1.png?raw=true)
+
+2. WW2: Activation Energy - `10/10`
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/4q/gc2-ww2.png?raw=true)
+
+3. WW3: Collision Theory & Arrhenius Equation - `4/5`
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/4q/gc2-ww3.png?raw=true)
+
+4. WW4: Predicting Entropy Changes - `15/15`
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/4q/gc2-ww4.png?raw=true)
+
+5. WW5: Calculating an Entropy Change - `15/15`
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/4q/gc2-ww5.png?raw=true)
+
+6. WW6: Estimation for Equilibrium Constant K Value - `?/15`
+
+	<img src="./gc2 [General Chemistry 2]/4Q/gc2-ww6-1.jpg" height="500px">
+
+7. WW7: Calculating delta G Given Constant Temperature - `?/10`
+
+	<img src="./gc2 [General Chemistry 2]/4Q/gc2-ww7.jpg" height="500px">
+
 ### Explain what exactly you were required to do in these Written Works?
 
 #### **3rd Quarter**
@@ -791,8 +816,15 @@ I think I need to contribute more to the group since I didn't do much in the fir
 
 #### **4th Quarter**
 
-### What information was the most interesting/surprising to you?
+1. In this written work, we answered a Google Form about the lesson we discussed, which is about Chemical Kinetics and rate of reaction.
+2. In this written work, we answered #15 on page 169 of the textbook.
+3. In this written work, we answered a Google Form about our discussion for today, which is about half-life and the Arrhenius Equation.
+4. In this written work, we answered some practice problems in Page 183 of the book about predicting entropy change.
+5. In this written work, we answered some more practice problems in Page 184 of the textbook. This time, though, we calculated the entropy change for the given chemical reactions.
+6. In this written work, we answered #25 a, b and c of page 210-11 in the textbook.
+7. In this written work, we answered #26 a & b of page 211 in the textbook.
 
+### What information was the most interesting/surprising to you?
 #### **3rd Quarter**
 
 1. Everything in this written work and lesson itself was new to me, besides the concepts of moles and energy.
@@ -804,26 +836,34 @@ I think I need to contribute more to the group since I didn't do much in the fir
 
 #### **4th Quarter**
 
-### Which of the Written Works you did well? Why?
+1. I learned about chemical kinetics, yet another room in the field of chemistry. Gets me more interested.
+2. I'm glad to have friends that help me when I need help with understanding some concepts that I missed, because they really did help me this time, a lot.
+3. I was quite familiar with topic half-life, since we discussed it last year with Ma'am Arlene.
+4. I learned about some concepts about entropies of substances and how entropy change varies in different kinds of chemical reactions.
+5. I learned how to solve for how much the entropy changed for given reactions, which was fairly obvious and an understandable process.
+6. I wasn't really surprised to be solving mathematical problems in Chemistry but I didn't expect things to go this far.
+7. I got my solving and logical skills trained and practiced in this written work.
 
+### Which of the Written Works you did well? Why?
 #### **3rd Quarter**
 
 I believe that I did an excellent job on Written Work 6, because I had the help of my classmates and, in turn, helped my classmates with this activity.
 
 #### **4th Quarter**
 
-### In what Written Work do you need to improve? How?
+I believe I did an excellent job in all the written works. Which I would applaud myself for, except for some stuff.
 
+### In what Written Work do you need to improve? How?
 #### **3rd Quarter**
 
 I didn’t perform well enough in Written Work 3, probably because I didn’t review what I just learned thoroughly. I should though next time.
 
 #### **4th Quarter**
 
+The *some stuff* I was referring to in the previous question was my punctuality in the last few tasks. Although I was very confident that I would submit my tasks on or , more importantly, before time. This is just a little pebble that I might've tripped on on the way to being an excellent student.
+
 ## Performance Tasks
-
 ### What are the Performance Tasks?
-
 #### **3rd Quarter**
 
 1. MPT: The Study of Phase Change (Virtual Lab) - `50/50`
@@ -836,8 +876,15 @@ I didn’t perform well enough in Written Work 3, probably because I didn’t re
 
 #### **4th Quarter**
 
-### Explain exactly what you were required to do in this Performance Task?
+1. MPT1: Reaction Rates - `?/50`
 
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/gc2/4q/gc2-mpt1.png?raw=true)
+
+2. MPT2: Factors Affecting Reaction Rates: Temperature - `?/50`
+
+	![](gc2%20[General%20Chemistry%202]/4Q/gc2-mpt2.png)
+
+### Explain exactly what you were required to do in this Performance Task?
 #### **3rd Quarter**
 
 1. In this mini performance task, we recorded the data on the simulation of phase change on a website given to us.
@@ -845,8 +892,10 @@ I didn’t perform well enough in Written Work 3, probably because I didn’t re
 
 #### **4th Quarter**
 
-### How may the skills that you have developed in this Performance Task be of help to you in your future career?
+1. In this mini performance task, we investigated factors that could affect reaction rates and how these variables relate to each other.
+2. In this mini performance task, we investigated how temperature affects the rate of reaction through a simulation on the internet.
 
+### How may the skills that you have developed in this Performance Task be of help to you in your future career?
 #### **3rd Quarter**
 
 1. This performance task emulated the process of experimentation despite being isolated in my own room.
@@ -854,28 +903,30 @@ I didn’t perform well enough in Written Work 3, probably because I didn’t re
 
 #### **4th Quarter**
 
-### Which of the Performance Tasks you did well in? Why?
+1. This performance task helped me recall the scientific method that is hypothesis, experimentation, so on, and so forth.
+2. This performance task also helped me recall and enable me to use the scientific method in a fair manner.
 
+### Which of the Performance Tasks you did well in? Why?
 #### **3rd Quarter**
 
 I must say I did well in the Concentration MPT, because I really like the topic. Maybe because of the math that the lesson uses.
 
 #### **4th Quarter**
 
-### In what Performance Task do you need to improve? How?
+I feel I did well in the two performance task given to us, with the help of reviewing of the topics every now and then, I was able to accomplish the tasks successfully.
 
+### In what Performance Task do you need to improve? How?
 #### **3rd Quarter**
 
 I believe I did well in all the MPTs and that there isn’t anything more to answer to this question.
 
 #### **4th Quarter**
 
+A problem I again face is punctuality, which I'd say I did well most of the time, but not this time. I have to work on that.
+
 # Practical Research
-
 ## Written Works
-
 ### What are the Written Works?
-
 #### **3rd Quarter**
 
 1. Task 1: Practical Research - `96/100`
@@ -893,7 +944,6 @@ I believe I did well in all the MPTs and that there isn’t anything more to ans
 #### **4th Quarter**
 
 ### Explain what exactly you were required to do in these Written Works?
-
 #### **3rd Quarter**
 
 1. In this written work, we answered a set of 3 questions that asked us about
@@ -903,7 +953,6 @@ I believe I did well in all the MPTs and that there isn’t anything more to ans
 #### **4th Quarter**
 
 ### What information was the most interesting/surprising to you?
-
 #### **3rd Quarter**
 
 1. This written work made me realize the importance and value of research, and it sparked my interest in researching different kinds of stuff.
@@ -913,7 +962,6 @@ I believe I did well in all the MPTs and that there isn’t anything more to ans
 #### **4th Quarter**
 
 ### Which of the Written Works you did well? Why?
-
 #### **3rd Quarter**
 
 I’m saying this unconfidently, but I’m just confident with how I did in Task 1. Just because I actually got a handle of what was happening in the written work.
@@ -921,7 +969,6 @@ I’m saying this unconfidently, but I’m just confident with how I did in Task
 #### **4th Quarter**
 
 ### In what Written Work do you need to improve? How?
-
 #### **3rd Quarter**
 
 I don’t have a written work in my mind that I did that bad on. But the closest written work to that bad is Task 4, in my opinion. Not just because of my punctuality, but also because of how I did in it.
@@ -929,9 +976,7 @@ I don’t have a written work in my mind that I did that bad on. But the closest
 #### **4th Quarter**
 
 ## Performance Tasks
-
 ### What are the Performance Tasks?
-
 #### **3rd Quarter**
 
 1. Task 3: Project Proposal and Purpose of Study - `98/100`
@@ -943,7 +988,6 @@ I don’t have a written work in my mind that I did that bad on. But the closest
 #### **4th Quarter**
 
 ### Explain exactly what you were required to do in this Performance Task?
-
 #### **3rd Quarter**
 
 1. In this performance task, ironically, we applied what we learned from the discussion and we chose a topic to make a project proposal, the main question, and the specific questions for the research topic.
@@ -952,7 +996,6 @@ I don’t have a written work in my mind that I did that bad on. But the closest
 #### **4th Quarter**
 
 ### How may the skills that you have developed in this Performance Task be of help to you in your future career?
-
 #### **3rd Quarter**
 
 1. I think I will only be able to use these skills in college when thesis stuff come in, but it’s still useful I guess.
@@ -961,7 +1004,6 @@ I don’t have a written work in my mind that I did that bad on. But the closest
 #### **4th Quarter**
 
 ### Which of the Performance Tasks you did well in? Why?
-
 #### **3rd Quarter**
 
 I can only admit that I did well in Task 3. There’s no real reason to perform well, I just did a great job. I’m also hopeful.
@@ -969,7 +1011,6 @@ I can only admit that I did well in Task 3. There’s no real reason to perform 
 #### **4th Quarter**
 
 ### In what Performance Task do you need to improve? How?
-
 #### **3rd Quarter**
 
 Not much, I’m happy with my results. But there’s still room for growth and improvement, which will be in use in the next school quarter and years.
@@ -1038,7 +1079,6 @@ Not much, I’m happy with my results. But there’s still room for growth and i
 7. This was like a plot twist. Just when you thought that limits can also not exist, then you also learn that there can be infinite limits! What are the limits to Math’s wonders?
 
 #### **4th Quarter**
-
 ### Which of the Written Works you did well? Why?
 #### **3rd Quarter**
 
@@ -1101,7 +1141,7 @@ One thing I didn’t do well in these performance tasks was my punctuality, and 
 
 #### **4th Quarter**
 
-* * *
+
 
 # Statistics & Probability
 ## Written Works

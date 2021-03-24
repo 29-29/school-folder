@@ -943,6 +943,10 @@ A problem I again face is punctuality, which I'd say I did well most of the time
 
 #### **4th Quarter**
 
+1. Task 6: Review of Related Literature - `?/100`
+2. Task 7: Research Design & Sampling - `?/100`
+3. Task 8: Data Gathering Procedures - `?/100`
+
 ### Explain what exactly you were required to do in these Written Works?
 #### **3rd Quarter**
 
@@ -951,6 +955,10 @@ A problem I again face is punctuality, which I'd say I did well most of the time
 3. In this written work, we continued with the same topic as the last written work, and we made the statement of the problem, along with the beneficiary of the research project.
 
 #### **4th Quarter**
+
+1. In this written work, we composed a part of our hypothetical research, which is the review of related literature and studies.
+2. In this written work, we made another output for hypothetical research. This time, about research design and sampling populations.
+3. In this written work, we made another output for the same hypothetical research. The topic this time was about the methodology of gathering the data from our samples.
 
 ### What information was the most interesting/surprising to you?
 #### **3rd Quarter**
@@ -986,6 +994,8 @@ I don’t have a written work in my mind that I did that bad on. But the closest
 2. Task 5: Research Framework and Scope and Limitations of the Study - `96/100`
 
 #### **4th Quarter**
+
+1. Task 9: Research Instrument - `?/100`
 
 ### Explain exactly what you were required to do in this Performance Task?
 #### **3rd Quarter**

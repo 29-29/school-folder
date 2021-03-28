@@ -943,9 +943,21 @@ A problem I again face is punctuality, which I'd say I did well most of the time
 
 #### **4th Quarter**
 
-1. Task 6: Review of Related Literature - `?/100`
+1. Task 6: Review of Related Literature - `98/100`
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/pr/4q/pr-task6.png?raw=true)
+
 2. Task 7: Research Design & Sampling - `?/100`
-3. Task 8: Data Gathering Procedures - `?/100`
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/pr/4q/pr-task7.png?raw=true)
+
+3. Task 8: Data Gathering Procedures - `98/100`
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/pr/4q/pr-task8.png?raw=true)
+
+4. Task 10: Data Analysis - `?/100`
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/pr/4q/pr-task10.png?raw=true)
 
 ### Explain what exactly you were required to do in these Written Works?
 #### **3rd Quarter**
@@ -959,6 +971,7 @@ A problem I again face is punctuality, which I'd say I did well most of the time
 1. In this written work, we composed a part of our hypothetical research, which is the review of related literature and studies.
 2. In this written work, we made another output for hypothetical research. This time, about research design and sampling populations.
 3. In this written work, we made another output for the same hypothetical research. The topic this time was about the methodology of gathering the data from our samples.
+4. In this written work, we wrote paper about the type of data analysis we would use on our hypothetical research.
 
 ### What information was the most interesting/surprising to you?
 #### **3rd Quarter**
@@ -969,6 +982,11 @@ A problem I again face is punctuality, which I'd say I did well most of the time
 
 #### **4th Quarter**
 
+1. I learned to understand more than just to read what I was reading, which is very essential as to not read a passage over and over again, just to understand the passage.
+2. I learned about different methods of determining the sample size for your research, although I used Universal Sampling since it was suggested to me, and it also made sense to do so.
+3. I learned how to ACTUALLY prepare for an interview. I also learned that interviews aren't made for entertainment, but for the pursuit of knowledge as well.
+4. I learned how to organize the data that you gather after acquiring them, that is through categorizing everything, and sub-categorizing its details to further abstract the organization of data, for ease of analyzing it.
+
 ### Which of the Written Works you did well? Why?
 #### **3rd Quarter**
 
@@ -976,12 +994,16 @@ I’m saying this unconfidently, but I’m just confident with how I did in Task
 
 #### **4th Quarter**
 
+I'm quite proud with what I achieved this semester and I'm happy to say so as well. I believe that I did so because of the sufficient motivation that Sir Herbert gave us while we were under the process of making these tasks.
+
 ### In what Written Work do you need to improve? How?
 #### **3rd Quarter**
 
 I don’t have a written work in my mind that I did that bad on. But the closest written work to that bad is Task 4, in my opinion. Not just because of my punctuality, but also because of how I did in it.
 
 #### **4th Quarter**
+
+As I have said, there's not much negativity to find in my output this quarter. And that is something I strive to see next year as well.
 
 ## Performance Tasks
 ### What are the Performance Tasks?
@@ -997,6 +1019,8 @@ I don’t have a written work in my mind that I did that bad on. But the closest
 
 1. Task 9: Research Instrument - `?/100`
 
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/pr/4q/pr-task9.png?raw=true)
+
 ### Explain exactly what you were required to do in this Performance Task?
 #### **3rd Quarter**
 
@@ -1004,6 +1028,8 @@ I don’t have a written work in my mind that I did that bad on. But the closest
 2. In this performance task, we drew out the IPO model for the same research topic we’ve been holding in Task 3 & 4. We also determined the scope and limitations for the study.
 
 #### **4th Quarter**
+
+1. In this performance task, we determined the research instrument to use for our hypothetical research.
 
 ### How may the skills that you have developed in this Performance Task be of help to you in your future career?
 #### **3rd Quarter**
@@ -1013,12 +1039,16 @@ I don’t have a written work in my mind that I did that bad on. But the closest
 
 #### **4th Quarter**
 
+1. It is fairly obvious that the skills I will acquire in this performance task can help me in my studies when my curiosity dominates my procrastination.
+
 ### Which of the Performance Tasks you did well in? Why?
 #### **3rd Quarter**
 
 I can only admit that I did well in Task 3. There’s no real reason to perform well, I just did a great job. I’m also hopeful.
 
 #### **4th Quarter**
+
+It's sad to say that I'm leaving the 'Practice' stage of practical research, to enter the 'Practical' research stage. I gave it my all. And as they say, give and take.
 
 ### In what Performance Task do you need to improve? How?
 #### **3rd Quarter**
@@ -1027,7 +1057,7 @@ Not much, I’m happy with my results. But there’s still room for growth and i
 
 #### **4th Quarter**
 
-* * *
+I am ultimately satisfied and content with what my productivity has brought this quarter, and I'm happy to there is no downsides to any of my outputs this quarter.
 
 # Basic Calculus
 ## Written Works

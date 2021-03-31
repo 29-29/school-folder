@@ -1094,6 +1094,14 @@ I am ultimately satisfied and content with what my productivity has brought this
 
 #### **4th Quarter**
 
+1. Activity 4.0: Limits at Infinity - `12/14`
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/bc/4q/bc-activity0.png?raw=true)
+
+2. Activity 4.1: Basic Differentiation Rules - `?/22`
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/bc/4q/bc-activity1.png?raw=true)
+
 ### Explain what exactly you were required to do in these Written Works?
 #### **3rd Quarter**
 
@@ -1107,6 +1115,9 @@ I am ultimately satisfied and content with what my productivity has brought this
 
 #### **4th Quarter**
 
+1. In this written work, we answered a set of problems that Ma'am Thelma gave us. The problems were about finding the limits of equations as the limit approached infinity.
+2. In this written work, we answered a set of problems from page 111-13 of the textbook. It was about differentiating equations and getting their derivatives.
+
 ### What information was the most interesting/surprising to you?
 #### **3rd Quarter**
 
@@ -1119,6 +1130,10 @@ I am ultimately satisfied and content with what my productivity has brought this
 7. This was like a plot twist. Just when you thought that limits can also not exist, then you also learn that there can be infinite limits! What are the limits to Math’s wonders?
 
 #### **4th Quarter**
+
+1. I learned about new properties in finding limits of equations. That is about limits at infinity. Infinity is an odd value in the realm of mathematics. It kind of fits in, but when you look deeper into it, it seems it doesn't belong here.
+2. I got my first step towards differential equations which has been an interesting topic to me always.
+
 ### Which of the Written Works you did well? Why?
 #### **3rd Quarter**
 
@@ -1149,6 +1164,16 @@ There was a lot of confusion in Activity 3.6, which I need to improve on by prac
 
 #### **4th Quarter**
 
+1. Mini Task 4.0: Limits of Trigo Functions - `10/10`
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/bc/4q/bc-minitask0.png?raw=true)
+
+2. Mini Task 4.1: Definition of Derivatives - `10/10`
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/bc/4q/bc-minitask1.png?raw=true)
+
+3. Performance Task 4.0: Derivative of Functions - `?/30`
+
 ### Explain exactly what you were required to do in this Performance Task?
 #### **3rd Quarter**
 
@@ -1157,6 +1182,10 @@ There was a lot of confusion in Activity 3.6, which I need to improve on by prac
 3. In this PeTa, we did a Google Form on trigonometric functions and then we had to solve problems about limits, piecewise functions, and etc. on paper.
 
 #### **4th Quarter**
+
+1. In this mini task, we were grouped into a breakout room, this time not in random. And we looked into problems about limits of trigo functions.
+2. In this mini task, we were grouped into breakout rooms again, and we kind of sticked to the same team, plus Caryll since she was usually alone (afaik). This time, we solved problems about derivatives of functions, right after we learned some basic differentiating.
+3. In this PeTa, we answered a marathon of problems on the book regarding finding the derivatives of functions.
 
 ### How may the skills that you have developed in this Performance Task be of help to you in your future career?
 #### **3rd Quarter**

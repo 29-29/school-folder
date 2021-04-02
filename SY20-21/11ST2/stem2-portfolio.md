@@ -1098,9 +1098,13 @@ I am ultimately satisfied and content with what my productivity has brought this
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/bc/4q/bc-activity0.png?raw=true)
 
-2. Activity 4.1: Basic Differentiation Rules - `?/22`
+2. Activity 4.1: Basic Differentiation Rules - `21/22`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/bc/4q/bc-activity1.png?raw=true)
+
+3. Activity 4.2: Final Activity - `?/15`
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/bc/4q/bc-activity2.png?raw=true)
 
 ### Explain what exactly you were required to do in these Written Works?
 #### **3rd Quarter**
@@ -1117,6 +1121,7 @@ I am ultimately satisfied and content with what my productivity has brought this
 
 1. In this written work, we answered a set of problems that Ma'am Thelma gave us. The problems were about finding the limits of equations as the limit approached infinity.
 2. In this written work, we answered a set of problems from page 111-13 of the textbook. It was about differentiating equations and getting their derivatives.
+3. In this written work, we were given problems to solve for each of the following topics: higher order derivatives, implicit differentiation, and optimum/optimization.
 
 ### What information was the most interesting/surprising to you?
 #### **3rd Quarter**
@@ -1133,6 +1138,7 @@ I am ultimately satisfied and content with what my productivity has brought this
 
 1. I learned about new properties in finding limits of equations. That is about limits at infinity. Infinity is an odd value in the realm of mathematics. It kind of fits in, but when you look deeper into it, it seems it doesn't belong here.
 2. I got my first step towards differential equations which has been an interesting topic to me always.
+3. These topics were like an expansion DLC to the base differential equations game.
 
 ### Which of the Written Works you did well? Why?
 #### **3rd Quarter**
@@ -1141,12 +1147,16 @@ I’m proud to say that I did well in all works, but what I’m not proud of is 
 
 #### **4th Quarter**
 
+With the quarter, semester, and school year over for this subject, I'm happy to say I did my best in all the tasks as much as I could. And I would too in the next school year.
+
 ### In what Written Work do you need to improve? How?
 #### **3rd Quarter**
 
 There was a lot of confusion in Activity 3.6, which I need to improve on by practicing with problems like these.
 
 #### **4th Quarter**
+
+With proper review and studying on the topics, I was able to make minimum mistakes which is to say that everyone makes mistakes.
 
 ## Performance Tasks
 ### What are the Performance Tasks?
@@ -1174,6 +1184,8 @@ There was a lot of confusion in Activity 3.6, which I need to improve on by prac
 
 3. Performance Task 4.0: Derivative of Functions - `?/30`
 
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/bc/4q/bc-peta0.png?raw=true)
+
 ### Explain exactly what you were required to do in this Performance Task?
 #### **3rd Quarter**
 
@@ -1196,12 +1208,18 @@ There was a lot of confusion in Activity 3.6, which I need to improve on by prac
 
 #### **4th Quarter**
 
+1. I think that cooperation of every member is key in groupworks, and being a fair contributor to the group is what I found useful in this activity.
+2. I have watched quite the videos on where differential equations can be used and applied to (such as fluid simulations), and I'm excited to try them out myself.
+3. Patience and perseverance was a value that I picked up in this activity since you really needed it to make it through the pile of schoolworks about Math.
+
 ### Which of the Performance Tasks you did well in? Why?
 #### **3rd Quarter**
 
 For the most part, I did well in all, there was just some incosistency, but so far, so good.
 
 #### **4th Quarter**
+
+I have done well in all the performance tasks this quarter, and I am quite impressed of myself myself.
 
 ### In what Performance Task do you need to improve? How?
 #### **3rd Quarter**
@@ -1210,7 +1228,7 @@ One thing I didn’t do well in these performance tasks was my punctuality, and 
 
 #### **4th Quarter**
 
-
+I have no comment on this since I don't see any aspect of my productivity I can criticize this quarter.
 
 # Statistics & Probability
 ## Written Works

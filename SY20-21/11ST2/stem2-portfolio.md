@@ -1255,6 +1255,10 @@ I have no comment on this since I don't see any aspect of my productivity I can 
 
 #### **4th Quarter**
 
+1. WW1: Hypothesis Testing - `?/45`
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/sp/4q/sp-ww1.png?raw=true)
+
 ### Explain what exactly you were required to do in these Written Works?
 #### **3rd Quarter**
 
@@ -1266,6 +1270,8 @@ I have no comment on this since I don't see any aspect of my productivity I can 
 
 #### **4th Quarter**
 
+1. In this written work, we answered 15 problems about hypothesis testing. We had to determine its null hypothesis, alternative hypothesis, and whether it was directional or non-directional.
+
 ### What information was the most interesting/surprising to you?
 #### **3rd Quarter**
 
@@ -1276,6 +1282,8 @@ I have no comment on this since I don't see any aspect of my productivity I can 
 5. This was, in all honesty, a bit of a heavy work, but I carried through, and we carried through. This activity helped me crank up my motivation standard.
 
 #### **4th Quarter**
+
+1. I learned about the two types of hypothesis, and I was surprised that the court analogy worked so well in this case.
 
 ### Which of the Written Works you did well? Why?
 #### **3rd Quarter**

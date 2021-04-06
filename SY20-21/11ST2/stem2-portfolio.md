@@ -1315,6 +1315,10 @@ I’d like to tell myself to keep this work up for the next quarter.
 
 #### **4th Quarter**
 
+1. MPT1: Scatter Plots - `?/50`
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/sp/4q/sp-mpt1.png?raw=true)
+
 ### Explain exactly what you were required to do in this Performance Task?
 #### **3rd Quarter**
 
@@ -1322,12 +1326,16 @@ I’d like to tell myself to keep this work up for the next quarter.
 
 #### **4th Quarter**
 
+1. In this mini-peta, we did 5 problems which asked us to get the independent & dependent variables of the problem, construct a scatter plot graph for the problem, and determine the direction, strength, and correlation of the variables.
+
 ### How may the skills that you have developed in this Performance Task be of help to you in your future career?
 #### **3rd Quarter**
 
 1. These topics are very useful in the field of research and data collecting, it helps give more precision and definition to researches.
 
 #### **4th Quarter**
+
+1. I learned about independent & dependent variables in this lesson, which, I admit, I am quite familiar with already. I also learned about scatter plots which I have never heard before, honestly speaking. These topics we learned today are essential in the field of research, since a lot of it concerns data and organizing them.
 
 ### Which of the Performance Tasks you did well in? Why?
 #### **3rd Quarter**

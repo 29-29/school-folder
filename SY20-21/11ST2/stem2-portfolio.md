@@ -1263,6 +1263,14 @@ I have no comment on this since I don't see any aspect of my productivity I can 
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/sp/4q/sp-ww2.png?raw=true)
 
+3. WW3: Variables - `?/10`
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/sp/4q/sp-ww3.png?raw=true)
+
+4. WW4: Pearson - `?/60`
+
+	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/sp/4q/sp-ww4.png?raw=true)
+
 ### Explain what exactly you were required to do in these Written Works?
 #### **3rd Quarter**
 
@@ -1276,6 +1284,8 @@ I have no comment on this since I don't see any aspect of my productivity I can 
 
 1. In this written work, we answered 15 problems about hypothesis testing. We had to determine its null hypothesis, alternative hypothesis, and whether it was directional or non-directional.
 2. In this written work, we answered 10 problems about finding the critical value. We had to determine the critical value, and if it was positive or negative.
+3. In this written work, we were given 5 problems. We had to distinguish the independent from the dependent variable.
+4. In this written work, we were given 3 problems to find the value of r and make an interpretation of the correlation of the variables.
 
 ### What information was the most interesting/surprising to you?
 #### **3rd Quarter**
@@ -1290,6 +1300,8 @@ I have no comment on this since I don't see any aspect of my productivity I can 
 
 1. I learned about the two types of hypothesis, and I was surprised that the court analogy worked so well in this case.
 2. Today, I learned about critical values, and how to determine whether to reject a null hypothesis or not.
+3. I was already familiar with the topic of variables since it is quite the block needed in programming.
+4. I learned about the Pearson Product Moment Correlation Coefficient, which is quite a long name, tbh. Which can tell you what the scatter plot might look like, which is very interesting. I want to learn more on how a specific formula can do that.
 
 ### Which of the Written Works you did well? Why?
 #### **3rd Quarter**

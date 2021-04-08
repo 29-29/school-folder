@@ -1255,11 +1255,11 @@ I have no comment on this since I don't see any aspect of my productivity I can 
 
 #### **4th Quarter**
 
-1. WW1: Hypothesis Testing - `?/45`
+1. WW1: Hypothesis Testing - `35/45`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/sp/4q/sp-ww1.png?raw=true)
 
-2. WW2: Critical Value - `?/20`
+2. WW2: Critical Value - `20/20`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/sp/4q/sp-ww2.png?raw=true)
 
@@ -1267,7 +1267,7 @@ I have no comment on this since I don't see any aspect of my productivity I can 
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/sp/4q/sp-ww3.png?raw=true)
 
-4. WW4: Pearson - `?/60`
+4. WW4: Pearson - `60/60`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/sp/4q/sp-ww4.png?raw=true)
 
@@ -1327,7 +1327,7 @@ I’d like to tell myself to keep this work up for the next quarter.
 
 #### **4th Quarter**
 
-1. MPT1: Scatter Plots - `?/50`
+1. MPT1: Scatter Plots - `45/50`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/sp/4q/sp-mpt1.png?raw=true)
 

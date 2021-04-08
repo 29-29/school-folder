@@ -1263,7 +1263,7 @@ I have no comment on this since I don't see any aspect of my productivity I can 
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/sp/4q/sp-ww2.png?raw=true)
 
-3. WW3: Variables - `?/10`
+3. WW3: Variables - `10/10`
 
 	![](https://github.com/29-29/school-portfolio-resources/blob/master/sy2021/11st2/sp/4q/sp-ww3.png?raw=true)
 

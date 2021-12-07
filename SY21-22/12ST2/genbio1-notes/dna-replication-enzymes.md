@@ -5,7 +5,7 @@ color: white
 ---
 
 # DNA Replication Enzymes
-December 2, 5 2021
+December 2, 5, 7 2021
 
 ---
 
@@ -73,12 +73,12 @@ December 2, 5 2021
 - process during which a DNA sequence of a gene is copied to make an RNA molecule
 
 ## Translation
-- process during which an mRNA molecule is used to assemble amino acids into polypeptide proteins
+- process during which an mRNA molecule is used to assemble amino acids into polypeptide chains
+
+---
 
 ## Polypeptide
 - a chain of amino acids
-
----
 
 ## RNA Structure
 - the building blocks of RNA are nucleotides, just like DNA.
@@ -92,14 +92,17 @@ December 2, 5 2021
 1. **Messenger RNA** (mRNA)
 	- carries copies of instructions for the assembly of amino acids into proteins from DNA to the rest of the cell (serve as "messenger").
 
----
-
-## THREE Main Types of RNA
 2. **Ribosomal RNA** (rRNA)
-	- makes up the major part of ribosomes [...]
+	- makes up the major part of ribosomes, which is where [...]
+
+3. Transfer NRA (tRNA)
+	- transfers amino acids to ribosomes during protein synthesis.
 
 ---
 
-## THREE Main Types of RNA
-3. Transfer NRA (tRNA)
-	- [...]
+# Protein Synthesis
+
+---
+
+## Proteins
+- [...]

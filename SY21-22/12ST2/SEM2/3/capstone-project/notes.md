@@ -52,3 +52,37 @@ What is the scope of "need"?
 ## Narrowing the Research
 - The problem research and definition has been kept broad to allow for a large amount of possible solutions.
 - Constraints are necessary because they eliminate any extreme solutions that would be inefficient, costly, and physically impossible to create.
+
+---
+
+##### January 18 2022
+# Literature Review
+
+A literature review is an assessment of a body of research that addresses a research question.
+
+A review of related literature is an integral part of research / thesis / capstone project. The main purpose of a **Review of Related Literature** is to analyze the scientific works by other researchers that you used for investigation critically
+
+## Purpose
+- Identifies what is already known about an area of study
+- Identify questions a body of research does not answer
+- Make a case for why further research questions is important to a field
+
+---
+
+Highlight major findings and how one's project would fit in the body of knowledge on the subject matter and make a critique per topic as to whether the results cohere or differ from each other.
+
+### NOTE:
+- Related literature are recent and relevant
+- Anchor provides solid background of the research / capstone project
+- Auxiliary theories are evident
+- Sources are appropriately cited and noted
+- Related studies are relevant and includes a global and local scope
+
+## Process
+- Framing a **research question**
+- **Searching** relevant bodies of literature
+- **Managing** search results
+- **Synthesizing** the research literature
+- **Writing** an assessment of the literature
+
+Explain how the literature / system has assisted the project proponent in the present study.

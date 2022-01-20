@@ -165,3 +165,58 @@ It is an organized activities done during one's free time for own personal reaso
 ### Quote by Anonymous
 > Recreation's purpose is not to kill time, but to make life, not to keep a person occupied, but to keep them refreshed; not to offer an escape from life, but to provide a discovery of life.
 
+---
+
+##### January 19 2022
+# Aquatic Activities
+
+## Learning Objectives:
+- ...
+
+## System of the body that can be developed when swimming
+### Muscular System
+Develop when a swimmer's body has been shaped into proportion or equilibrium.
+
+### Respiratory System
+Swimming promotes proper breathing of air.
+
+### Circulatory System
+Refers to cardio-vascular endurance which the heart is major part that helps to expand proper circulation of the blood.
+
+## Benefits of Swimming
+1. Provides the overall fitness
+2. Increases alertness and improves self-esteem
+3. Delays the aging process
+4. Develops the maintenance of vital organ
+5. Reduces the risks of developing heart diseases and other illnesses and ailments
+6. Decreases stress
+7. Provides life-long satisfaction and competitions
+8. Serves as the best therapy for physical and mental disabilities
+9. Provides general health, for it speeds up recovery
+10. Helps one to live a longer and fuller life
+11. Gives us a special refreshing and sensual experience
+12. Gives us a special hydrotherapy exercise
+13. Gives buoyancy support and cushions to the entire body
+14. Helps build muscle strength and tone
+15. Stimulates the circulation and increases the flow of oxygen
+16. Controls weight and percentages of body fat
+
+### The most important things that a learner should be able to develop first in swimming
+1. Self-confidence
+2. Relaxation of the muscle
+
+## 3 Types of Swimming
+1. Recreational Swimming
+	- the swimmer swims just for fun.
+		- Human Strokes
+		- Dog Paddle
+		- Backstroke
+		- Freestyle
+		- Sidestrokes
+2. Competitive Swimming
+	- the swimmer should be skillful and know all the different strokes and they swim to compete.
+		- Butterfly Stroke
+		- Freestyle
+		- Breaststroke
+3. Occupational Swimming
+	- the swimmer swims because it is part of their job (i.e. lifeguards).

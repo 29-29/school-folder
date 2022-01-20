@@ -110,10 +110,37 @@ The onset of the menstrual cycle, or **menarche**, begins at puberty and ceases 
 The cycle has 3 phases:
 1. ### Follicular Phase
 	- The follicular phase is characterized by menstruation, when the thickened lining of the endometrium is shed because no egg was fertilized or implanted.
-2. Ovulatory Phase
-3. Luteal Phase
+2. ### Ovulatory Phase
+	- Estrogen is the hormone produced by the ovaries, which stimulates the maturation of a follice and thickens the endometrium.
+3. ### Luteal Phase
+	- follows ovulation, and is characterized by the development of the corpus luteum, the secretion of progesterone, the preparation of the endometrium for implantation of a fertilized egg, and the formation of a thick mucous to block the cervix once the egg passes out of the fallopian tube.
 
 ---
 
 ### Footnotes
 - Progesterone focuses on / is produced for the endometrium ...
+
+---
+
+##### January 18 2022
+
+# Pregnancy
+ 
+At the moment of conception, a single sperm with 23 chromosomes (carrying genetic information from the father) penetrates/fertilizes a single egg with 23 chromosomes (carrying genetic information from the mother). The resulting cell, a zygote, now has 46 chromosomes. The cell begins dividing and is also called a **blastocyst**. From week 2-8, it is called an embryo.
+
+The fertilized egg implants in the uterus. Progesterone production increases to signal a pregnancy; it can be detected in urine and blood.
+
+The **amniotic sac** is a fluid-filled bag that protects and supports the embryo during the 280 day gesation period. The umbilical cord attached at the navel connects it to the placenta, where it gets nutrients and oxygen.
+
+During the 1st trimester, all parts of the embryo are formed; during the 2nd trimester, all parts start to function; during the last trimester, the embryo is now called a fetus and the main task is growth.
+
+Labor, characterized by muscle contractions, dilation (to 10cm) and effacement (thinning) of the cervix, and expulsion of the mucous plug that formed in the cervix, signals the onset of *parturition* ... the childbirth process. The cephalic, or head-first delivery, is the most common. Breech is a backward presentation; Caesarian is delivery through an incision in the abdomen.
+
+The umbilical cord is cut and clamped, and placenta (afterbirth) is delivered following the birth of the baby.
+
+The newborn may be covered with traces if **vernix caseosa** (cheesy coating) or **lanugo** (downy hair) that protected the skin before birth. The health of the baby is immediately evaluated on the **APGAR scale**. Color, heartbeat, reflexes, muscle tone, and breathing are scored on a scale of 0-10.
+
+Pregnancy can be complicated by certain conditions:
+1. **Placenta previa** is the development of the placenta over the opening of the cervix
+2. **Preeclampsia** is a pregnancy-induced hypertension (high blood pressure)
+3. Spontaneous abortion or miscarriage is the loss of a fetus during the first 20 weeks, often due to abnormalities, trauma, or lifestyle choices.

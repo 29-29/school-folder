@@ -6,8 +6,6 @@
 - The reproductive systems in both the male and female consist of primary and secondary sex organs and sex glands.
 - The primary function of the reproductive systems is to perpetuate the species through sexual or germ cell fertilization and reproduction.
 
----
-
 # Female Reproductive System
 
 ## The Uterus (Womb)
@@ -144,3 +142,58 @@ Pregnancy can be complicated by certain conditions:
 1. **Placenta previa** is the development of the placenta over the opening of the cervix
 2. **Preeclampsia** is a pregnancy-induced hypertension (high blood pressure)
 3. Spontaneous abortion or miscarriage is the loss of a fetus during the first 20 weeks, often due to abnormalities, trauma, or lifestyle choices.
+
+---
+
+##### January 23 2022
+# Male Reproductive System
+
+## Scrotum
+The scrotum is a pouch of skin that protects and holds the testes outside the body to maintain a lower temperature (37 C) for sperm development.
+
+The scrotal tissue contracts in the absence of sufficient heat, pulling the testes up closer to the body where the temperature maintains the viability of sperm.
+
+## Penis
+
+The **urethra** runs the length of the penis from the bladder to the **meatus** */me-A-tus/*. The flaccid penis fills with blood during arousal, causing an erection and allowing for the function of copulation/intercourse.
+
+Penis delivers sperm into the vagina of the female during ejaculation. This foreskin may be circumcised/removed for hygiene or religious reasons. It protect against foreign bodies from entering the urethra.
+
+- ### Footnotes
+	- according to research *(dont take word for word)*:
+		> Uncircumcised is no problem.
+	- probability of getting STD is lower when circumcised
+	- lower chance of penil cancer when circumcised
+
+## Testes & Epididymis
+Testes produces sperm and male hormones (**testosterone**).
+
+Epididymis is where sperm are stored temporarily, found on the back of testes.
+
+## Sperm
+The **acrosome** */AK-roh-zome/* covering the head of the sperm contains enzymes that help it penetrate the ova/egg. The head carries the genetic material. The midpiece supplies energy. The tail or **flagellum** provides */flah-JELL-um/* motility.
+
+Sperm carry either an X (female) or Y (male) chromosome. Since all ova carry the X (female) chromosome, the male sperm does influence the baby's sex.
+
+## Vas Deferens & Seminal Vesicle
+The **vas deferens** are muscular tubes that conducts sperm from the testes to the urethra.
+
+The **seminal vesicles** produce a slightly alkaline fluid that mixes with the sperm and becomes part of the **semen** (a mixture of fluid produced by the male sex glands and sperm) ejaculated during the male orgasm. It protects the sperm from the acidity of the urethra.
+
+## Prostate Gland
+
+THe **prostate gland** also secretes an alkaline fluid that mixes with the sperm as part of the semen. Enlargement of the prostate, benign prostatic hyperplasia, obstructs the flow of urine through urethra.
+
+The **Cowper's** or **buboourethral glands** */bull-boh-yur-REE-thral/* produce another mucous-alkaline secretion in the urethra, excreted from the glands just before ejaculation.
+
+- ### Footnotes
+	- early diagnosis and treatment of prostate cancer can lead to cure.
+	- prostate doesn't kill you.
+	- there is no particular cause for prostate cancer.
+	- probable factors of prostate cancer:
+		1. family history
+		2. obesity
+		3. diet
+		4. high calcium
+		5. men over 50yo
+	- pain during urinating is a symptom for **Urinary Tract Infection** (UTI)

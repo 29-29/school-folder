@@ -254,3 +254,157 @@ On March 29, 2994, 10:18 AM, Dr John Brule, a Professor Emeritus in Electrical a
 - Media is like a watchdog in a democracy that keeps government active.
 
 - An integral part of our daily lives become a more matured and a more responsible about all the things which is going on in the society.
+
+---
+
+##### January 30 2022
+
+# Types of Media
+### Print Media
+- is a collective term for media printed on paper
+- also includes small-circulation community-based newspapers and magazines as well as alternative print publications aiming at smaller audiences with issues and opinions beyond the mainstream.
+- ie:
+	- tabloid -> filipino, pang-masa
+	- newspaper -> english
+
+### Broadcast Media
+- is the distribution of audio or video conent to a dispersed audience via any
+- **Community broadcasting**
+	- a form of mass media in which a television station, or a radio station, is owned, operated or programmed, by a community
+
+```ad-note
+Mainstream Media == Broadcast Media
+```
+
+### Film/Cinema
+- also called a movie, motion picture, or moving picture
+- is a work of visual art used to simulate experiences that communicate ideas, stories, perceptions, feelings, beauty, or atmosphere throught the use of moving images
+
+### Video Games
+- electronic games in which players control images on a video screen
+- gaming has had a meteoric rise towards becoming one of the world's most popular forms of digital media
+
+### New Media
+- are forms of media that are computational and rely on computer for redistribution
+- some examples of new media are computer animations, computer games, human-computer interfaces, interactive computer installations, websites, and virtual worlds
+
+#### video: 5 crazy ways social media is changing your brain right now
+- unable to control how much time spent online
+- ==addiction== like a drug, because of great reward and small effort
+- ==phantom vibration syndrome==: feeling perceived vibrations from your phone when it hasn't really vibrated
+- **30-40%** prefer f2f -> ==back&forth communication==, **80%** prefer online -> self-centric communication
+- increased success in relationships that started online
+
+# Media Effects
+- defined as social or psychological responses occurring in individuals, small groups are typically, organizations, or communities as a result of exposure to or processing of or otherwise acting on media messages
+
+### Media Priming
+- the ability of the media to ==affect which issues== or traits individuals use to evaluate political figures
+- individuals base their vote choice mor eon issues covered by the media than on issues not covered by the media
+- the media's content will provide a lot of time and space to certain issues, ==making these issues more accessible== and vivid in the public's mind
+
+### Agenda-Setting Theory
+- describes the ability of the news media to ==influence the importance== placed on the topics of the public agenda
+- if a news item is covered frequently and prominently, the audience will regard the issue as more important
+
+```ad-quote
+Mas pangit na balita, mas maganda.
+*- Sir Bernard*
+```
+
+### Framing Theory
+- the concept of framing is related to the agenda-setting tradition but expands the research by focusing on the essence of the issues at hand rather than on a particular topic
+- the basis of framing theory is that the media focuses attention on certain events and then places them within a fieald of meaning
+
+### Cultivation Theory
+- [...]
+
+---
+
+##### February 6 2022
+# Media Effects
+
+### Cultivation Theory
+attempts to predict that media viewing has an effect on the values and beliefs that people have and the things they believe are "perception is stronger than reality"
+
+- chances of involvement with violence
+- fear of walking alone at night
+- perceived activity of police
+- general mistrust of people
+
+### Media Buy (Buy Me Theory)
+is the purchase of advertising from a media company such as a television station, newspaper, magazine, blog or website
+
+## Media Influence
+Positive and Negative Influences of Media on Teenagers
+
+```ad-quote
+If used right, media can change lives for good
+```
+
+## Positive Influence
+### 1. Help Develop Awareness
+- teens can realize that there is more to the world than just what is happening in the *hood*
+- cultural and political awareness, socially responsible citizens
+- with news channels, magazines and social networking sites blaring about world happenings
+
+### 2. Help Develop Social Skills
+many teens are socially awkward
+- it gives them the chance to expand their social circle and develop new friendship
+- social media diversifies teens social skills
+- other benefits includes social confidence, heightened literacy in the media and more social support
+
+### 3. Inspire Them
+- when your teen watches an action flick don't just despair about violence
+- with little guidance, they can use the movie as inspiration
+- teenagers look up to celebrities and when a celebrity tells them to stay off drugs. they might just listen
+
+### 4. Help Fine Motor Skills
+- video games draw a lot of flak these days
+- but there's some good video games too
+- there are video games taht can help teens develop and fine-tune their motor skills and coordination
+
+### 5. Help Develop Reading & Writing Skills
+- when a celebrity %%%%
+
+## Negative Influences
+### 1. Distorted Body Image
+- the world is full of perfect people today
+- with perfect skin, body, and hair - that's what is appears like to the young today
+- thanks to photoshop, everything has become impossible
+- this led to distorted body image, body crisis, anorexia and bulimia
+
+
+### 2. Normalizes Violence
+- the amount of violence in video games and movies today is scary
+- and teenagers spend several hours everyday watching these scenes of gore
+- many teenagers are unable to distinguish between reality and fantasy
+- this makes violence 'normal' for them
+
+### 3. Risky Sexual Behavior
+- teenagers are just discovering their sexuality
+- it is very normal for them to be interested in everything sexual
+- but the amount of sex in media today can make a teenager confused
+- sex w/o responsibility/irresponsible sexual behavior
+- unwanted pregnancies
+
+### 4. Making Everything Commercial
+- happiness comes at a price
+- their life would be perfect if only you'd buy them that hot new item in media
+- advertisers target teenagers to ramp their revenues
+- but teenagers fall prey to idea of commercialization of happiness
+
+### 5. Obesity
+- chances are your teen today spends most of her time in fron of the TV or computer
+- playing outside has become a rarity
+- add to that bad eating habits
+
+### 6. Score Low in School
+- teens who watch too much television have lower scores in exams
+- also, such teens are not good readers as they spend more time in front of television
+- a study reveals that individuals with high defree score watch less television in their childhood
+- third grad scores with computer in their bedrooms did better than those w/o computers
+
+```ad-quote
+Remember, media is just a tool and like any other tool, how you use it depends on you
+```
